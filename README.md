@@ -1,7 +1,14 @@
-# Software Engineer
+# Software Engineer 🤖
 
-You can find me on [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/linkedin.svg" width=16>](https://www.linkedin.com/in/justinlowen/)
-or reach me by [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/gmail.svg" width=16>](mailto:Justin.G.Lowen@Gmail.com)
+Hi, I'm a developer based out of the San Antonio-Austin area. 🐍
+I have a lot of hobbies (I like learning new things), some of which you can check out on [Instagram](https://www.instagram.com/drdrelowe/).
+I have skills in JavaScript & React - check out my [Netflix Clone](https://jlowen-netflix.netlify.app/) or my [E-Commerce Layout](https://jlowe-n.github.io/picsomereact/).
+I also have experience in Django & Python which I find are easy to debug and are very readable.
+
+If you are interested in learning more, you can find my resume [here](https://github.com/JLowe-N/MyResume).
+
+Feel free to reach out to me on [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/linkedin.svg" width=16>](https://www.linkedin.com/in/justinlowen/)
+or through [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/gmail.svg" width=16>](mailto:Justin.G.Lowen@Gmail.com)
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=f05032&color=20232a)
@@ -14,12 +21,5 @@ or reach me by [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/mast
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=f7df1e&color=20232a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=092E20&color=20232a)
 
-<!-- Icons -->
-
-[1.2]: <img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/linkedin.svg" width=20>
-
-<!-- Links -->
-
-[1]: https://www.linkedin.com/in/justinlowen/
 
 

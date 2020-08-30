@@ -1,6 +1,7 @@
 # Software Engineer
 
-
+You can find me on [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/linkedin.svg" width=16>](https://www.linkedin.com/in/justinlowen/)
+or reach me by [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/gmail.svg" width=16>](mailto:Justin.G.Lowen@Gmail.com)
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=f05032&color=20232a)
@@ -12,5 +13,13 @@
 ![](https://img.shields.io/badge/Code-styled_components-informational?style=flat&logo=styled-components&logoColor=d87093&color=20232a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=f7df1e&color=20232a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=092E20&color=20232a)
+
+<!-- Icons -->
+
+[1.2]: <img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/linkedin.svg" width=20>
+
+<!-- Links -->
+
+[1]: https://www.linkedin.com/in/justinlowen/
 
 

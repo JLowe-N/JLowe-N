@@ -5,7 +5,8 @@ I have a lot of hobbies (I like learning new things), some of which you can chec
 I have skills in JavaScript & React - check out my [Netflix Clone](https://jlowen-netflix.netlify.app/) or my [E-Commerce Layout](https://jlowe-n.github.io/picsomereact/).
 I also have experience in Django & Python which I find are easy to debug and are very readable.
 
-If you are interested in learning more, you can find my resume [here](https://github.com/JLowe-N/MyResume).
+[Download my PDF Resume](https://github.com/JLowe-N/MyResume/raw/master/Justin%20Lowen%20-%20Software%20Engineer%20-%20Sept%202020%20-%20Public%20Copy.pdf)<br>
+If you are interested in learning more, you can find my repo-based resume [here](https://github.com/JLowe-N/MyResume).
 
 Feel free to reach out to me on [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/linkedin.svg" width=16>](https://www.linkedin.com/in/justinlowen/)
 or through [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/gmail.svg" width=16>](mailto:Justin.G.Lowen@Gmail.com)
